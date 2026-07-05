@@ -1,0 +1,9 @@
+prompt_version,news_desk,n,deviation_mean,deviation_std,deviation_median
+A,Business,40,0.7735,0.5157,0.6822
+A,Foreign,40,1.0362,0.5231,1.0268
+B,Business,40,0.9121,0.5664,0.9691
+B,Foreign,40,1.1713,0.4815,1.1919
+D,Business,40,0.519,0.4616,0.5302
+D,Foreign,40,0.7989,0.5513,0.7818
+E,Business,40,0.5557,0.4833,0.5549
+E,Foreign,40,0.8376,0.5827,0.8529

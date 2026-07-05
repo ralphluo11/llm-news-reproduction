@@ -1,0 +1,81 @@
+sample_id,headline,news_desk,topic_class
+0,"As Deadline Lapses, Trump Administration Continues TikTok Talks",Business,soft
+1,TikTok Pushes Back Against Claims It Fuels Antisemitism,Business,adversarial
+2,"Before Ukraine Invasion, Russia and China Cemented Economic Ties",Business,soft
+3,"With Harsh Words, China’s Military Denies It Hacked Equifax",Business,adversarial
+4,Senators Say TikTok May Have Misled Congress on Handling of U.S. User Data,Business,adversarial
+5,Who Gains From Elon Musk’s Visit to China?,Business,soft
+6,TikTok Prompts Users to Call Congress to Fight Possible Ban,Business,adversarial
+7,A coalition of state attorneys general opens an investigation into TikTok.,Business,adversarial
+8,Halting China’s Economy Was Hard. Restarting It Is Harder.,Business,adversarial
+9,China pushes for regular mass testing in its ‘zero Covid’ pursuit.,Business,soft
+10,"After Agnes Chow Is Arrested in Hong Kong, a ‘Mulan’ Meme Is Born",Foreign,soft
+11,"As China’s Propaganda Push Continues, Wuhan Emerges as a Star",Foreign,soft
+12,8 Pro-Democracy Politicians Arrested in Hong Kong Over Heated Meeting,Foreign,adversarial
+13,China Long Avoided Discussing Mental Health. The Pandemic Changed That.,Foreign,soft
+14,China Keeps Building Stadiums in Africa. But at What Cost?,Foreign,soft
+15,China Welcomes Belarusian Leader Amid Concerns About Ukraine,Foreign,soft
+16,A Look at Taiwan’s Strongest Earthquakes,Foreign,soft
+17,"With Methane and Forest Deals, Climate Summit Offers Hope After Gloomy Start",Foreign,soft
+18,"A Panda Is Coming Home, and Her Chinese Fans Say It’s About Time",Foreign,soft
+19,Chinese Spacewalk Apparently Breaks a Record (Barely),Foreign,soft
+20,China Pledges More Stimulus to Shore Up Flagging Economy,Business,soft
+21,Forget the Polls: This Chinese Indicator Is Flashing ‘Trump’,Business,adversarial
+22,U.K. Bars Huawei for 5G as Tech Battle Between China and the West Escalates,Business,adversarial
+23,"As Coronavirus Spreads, Face Mask Makers Go Into Overdrive",Business,soft
+24,"In One Key A.I. Metric, China Pulls Ahead of the U.S.: Talent",Business,soft
+25,"As Chinese Vaccines Stumble, U.S. Finds New Opening in Asia",Business,adversarial
+26,China Bet It All on Real Estate. Now Its Economy Is Paying the Price.,Business,adversarial
+27,F.C.C. Designates Huawei and ZTE as National Security Threats,Business,adversarial
+28,China Wants to Bulldoze Old Neighborhoods to Revive the Economy,Business,adversarial
+29,"Gifts, Gadgets and Greece: Inside a Huawei Lobbying Campaign",Business,soft
+30,Alibaba’s Boss Steps Aside,Business,soft
+31,Big Tech Reconsiders the “Made in China” Way,Business,soft
+32,Why China’s Most-Hated Internet Company Decided to Play Nice,Business,soft
+33,Facebook Failed to Stop Ads Threatening Election Workers,Business,soft
+34,Poor Countries Borrowed Billions from China. They Can’t Pay It Back.,Business,adversarial
+35,China Returns to Davos With Clear Message: We’re Open for Business,Business,soft
+36,Thousands of Microsoft Customers May Have Been Victims of Hack Tied to China,Business,adversarial
+37,Uncertainty Swirls Around Evergrande as a Deadline Passes,Business,adversarial
+38,"China’s Rebound Hits a Wall, and There Is ‘No Quick Fix’ to Revive It",Business,soft
+39,China’s Plan to Spur Growth: A New Slogan for Building Factories,Business,soft
+40,Lies on Social Media Inflame Israeli-Palestinian Conflict,Business,adversarial
+41,"A Hong Kong Website Gets Blocked, Raising Censorship Fears",Business,adversarial
+42,Japanese Supercomputer Is Crowned World’s Speediest,Business,soft
+43,China’s Communist Party Congress: What It Means for Business,Business,soft
+44,Trump Officially Orders TikTok’s Chinese Owner to Divest,Business,adversarial
+45,"As Red States Curb Social Media, Did Montana’s TikTok Ban Go Too Far?",Business,soft
+46,‘Who Are Our Enemies?’ China’s Bitter Youths Embrace Mao.,Business,adversarial
+47,China Frees Banks to Lend More in Latest Attempt to Spur Economy,Business,soft
+48,"China Uses ‘Deceptive’ Methods to Sow Disinformation, U.S. Says",Business,adversarial
+49,China Factory Fire Kills 38,Business,soft
+50,Hong Kong Police Arrest Organizers of Tiananmen Square Vigil,Foreign,adversarial
+51,U.S. Vows to Continue Patrols Near China and Urges Nuclear Talks,Foreign,adversarial
+52,China’s New U.S. Ambassador Is Likely to Reflect Beijing’s Confidence,Foreign,soft
+53,How the Coronavirus Numbers Changed So Sharply,Foreign,soft
+54,"U.K. Sees Myriad Domestic Threats, Mainly From Iran, Russia and China",Foreign,adversarial
+55,Hong Kong Officer Is Summoned to Face Charges Over Shooting of Protester,Foreign,adversarial
+56,Three cities in China impose partial lockdowns as new cases are reported.,Foreign,adversarial
+57,"To Slow Virus, China Bars Entry by Almost All Foreigners",Foreign,adversarial
+58,"In Hong Kong, Foreign Tourists Are Replaced by a Local Variety",Foreign,soft
+59,"Hong Kong, One of World’s Last Holdouts, Ends Its Mask Mandate",Foreign,soft
+60,Experts See a Message in Chinese Balloons Flying Over Taiwan,Foreign,adversarial
+61,21 Runners Dead After Extreme Weather Hits Chinese Ultramarathon,Foreign,soft
+62,Businesses ‘Getting Killed’ on Russian Border as Coronavirus Fears Rise,Foreign,adversarial
+63,"The G7 leaders get down to business, taking on climate change and the pandemic.",Foreign,soft
+64,Germany Arrests Aide to E.U. Lawmaker on Suspicion of Spying for China,Foreign,adversarial
+65,"As Omicron Surges and Economy Suffers, China Tweaks ‘Zero Covid’",Foreign,soft
+66,"In China, Blinken Faces Clashing Agendas and a Question: Will Xi Show Up?",Foreign,adversarial
+67,"The Hong Kong police, citing the pandemic, block Tiananmen anniversary events.",Foreign,adversarial
+68,"Chinese Military Drills Aim to Awe, Both Abroad and at Home",Foreign,adversarial
+69,"For China’s Xi and Other Strongmen, Gorbachev Showed Exactly What Not to Do",Foreign,adversarial
+70,A History Museum Shows How China Wants to Remake Hong Kong,Foreign,adversarial
+71,Hong Kong Police Arrest Activist for Violating 2019 Mask Ban,Foreign,adversarial
+72,A Pacific Island With Ties to Taiwan Was Hacked. Was It Political?,Foreign,adversarial
+73,‘This Drop Came So Quickly’: Shrinking Schools Add to Hong Kong Exodus,Foreign,soft
+74,China Charges Hong Kong Activists Caught Fleeing to Taiwan,Foreign,adversarial
+75,"With Tensions Mounting, Biden and Xi Try a Warmer Tone",Foreign,soft
+76,‘Wild Swimming’ in Restricted Beijing Offers Refreshing Break From Rules,Foreign,soft
+77,He Warned of Coronavirus. Here’s What He Told Us Before He Died.,Foreign,soft
+78,"Xi and Macron Call for Ukraine Peace Talks, but the Path Is Murky",Foreign,soft
+79,Lockdowns spread in China as the virus surges in Shanghai and over a dozen provinces.,Foreign,adversarial

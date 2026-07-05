@@ -1,0 +1,9 @@
+model,prompt_version,news_desk,n,deviation_mean,deviation_std
+GPT-4o-mini,A,Business,40,0.7735,0.5157
+GPT-4o-mini,A,Foreign,40,1.0362,0.5231
+GPT-4o-mini,E,Business,40,0.5557,0.4833
+GPT-4o-mini,E,Foreign,40,0.8376,0.5827
+Gemini-2.5-Flash,A,Business,40,0.4995,0.5451
+Gemini-2.5-Flash,A,Foreign,40,0.6943,0.5782
+Gemini-2.5-Flash,E,Business,40,0.4243,0.5073
+Gemini-2.5-Flash,E,Foreign,40,0.5852,0.5794

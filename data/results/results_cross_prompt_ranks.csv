@@ -1,0 +1,321 @@
+sample_id,headline,desk,prompt,deviation,abs_deviation,rank
+0,"As Deadline Lapses, Trump Administration Continues TikTok Ta",Business,D,-0.07311269208892346,0.07311269208892346,1
+0,"As Deadline Lapses, Trump Administration Continues TikTok Ta",Business,A,0.11000159338841009,0.11000159338841009,2
+0,"As Deadline Lapses, Trump Administration Continues TikTok Ta",Business,B,0.25018025751018697,0.25018025751018697,3
+0,"As Deadline Lapses, Trump Administration Continues TikTok Ta",Business,E,0.48901910055428743,0.48901910055428743,4
+1,TikTok Pushes Back Against Claims It Fuels Antisemitism,Business,D,-0.06098978989757603,0.06098978989757603,1
+1,TikTok Pushes Back Against Claims It Fuels Antisemitism,Business,E,-0.13421701996897656,0.13421701996897656,2
+1,TikTok Pushes Back Against Claims It Fuels Antisemitism,Business,A,0.6138139211883147,0.6138139211883147,3
+1,TikTok Pushes Back Against Claims It Fuels Antisemitism,Business,B,0.8117193101594844,0.8117193101594844,4
+2,"Before Ukraine Invasion, Russia and China Cemented Economic ",Business,E,0.9066216315970652,0.9066216315970652,1
+2,"Before Ukraine Invasion, Russia and China Cemented Economic ",Business,D,1.1297997143636975,1.1297997143636975,2
+2,"Before Ukraine Invasion, Russia and China Cemented Economic ",Business,A,1.183356097356106,1.183356097356106,3
+2,"Before Ukraine Invasion, Russia and China Cemented Economic ",Business,B,1.1854271387888327,1.1854271387888327,4
+3,"With Harsh Words, China’s Military Denies It Hacked Equifax",Business,D,0.2190856744612878,0.2190856744612878,1
+3,"With Harsh Words, China’s Military Denies It Hacked Equifax",Business,E,0.28668691380880773,0.28668691380880773,2
+3,"With Harsh Words, China’s Military Denies It Hacked Equifax",Business,A,0.40123891413936186,0.40123891413936186,3
+3,"With Harsh Words, China’s Military Denies It Hacked Equifax",Business,B,1.0352321066634937,1.0352321066634937,4
+4,Senators Say TikTok May Have Misled Congress on Handling of ,Business,E,-0.009762523087879782,0.009762523087879782,1
+4,Senators Say TikTok May Have Misled Congress on Handling of ,Business,B,-0.12830358201689607,0.12830358201689607,2
+4,Senators Say TikTok May Have Misled Congress on Handling of ,Business,D,-0.12963680479313355,0.12963680479313355,3
+4,Senators Say TikTok May Have Misled Congress on Handling of ,Business,A,-0.29712755632741994,0.29712755632741994,4
+5,Who Gains From Elon Musk’s Visit to China?,Business,D,1.5547677673591624,1.5547677673591624,1
+5,Who Gains From Elon Musk’s Visit to China?,Business,E,1.604896913338009,1.604896913338009,2
+5,Who Gains From Elon Musk’s Visit to China?,Business,A,1.6391069298103775,1.6391069298103775,3
+5,Who Gains From Elon Musk’s Visit to China?,Business,B,1.7709705484679914,1.7709705484679914,4
+6,TikTok Prompts Users to Call Congress to Fight Possible Ban,Business,E,0.7131171452605891,0.7131171452605891,1
+6,TikTok Prompts Users to Call Congress to Fight Possible Ban,Business,D,0.8258156330428191,0.8258156330428191,2
+6,TikTok Prompts Users to Call Congress to Fight Possible Ban,Business,A,1.6493321396669167,1.6493321396669167,3
+6,TikTok Prompts Users to Call Congress to Fight Possible Ban,Business,B,1.671397161592419,1.671397161592419,4
+7,A coalition of state attorneys general opens an investigatio,Business,E,0.13582999404105872,0.13582999404105872,1
+7,A coalition of state attorneys general opens an investigatio,Business,D,0.15820826321012438,0.15820826321012438,2
+7,A coalition of state attorneys general opens an investigatio,Business,A,0.3290088946620623,0.3290088946620623,3
+7,A coalition of state attorneys general opens an investigatio,Business,B,0.7940545207303431,0.7940545207303431,4
+8,Halting China’s Economy Was Hard. Restarting It Is Harder.,Business,B,0.4369874152018587,0.4369874152018587,1
+8,Halting China’s Economy Was Hard. Restarting It Is Harder.,Business,D,0.5098439677385614,0.5098439677385614,2
+8,Halting China’s Economy Was Hard. Restarting It Is Harder.,Business,E,0.5962233015646539,0.5962233015646539,3
+8,Halting China’s Economy Was Hard. Restarting It Is Harder.,Business,A,0.6490923755853956,0.6490923755853956,4
+9,China pushes for regular mass testing in its ‘zero Covid’ pu,Business,D,0.1693745833148973,0.1693745833148973,1
+9,China pushes for regular mass testing in its ‘zero Covid’ pu,Business,A,0.6220182798958074,0.6220182798958074,2
+9,China pushes for regular mass testing in its ‘zero Covid’ pu,Business,E,0.6685575234134579,0.6685575234134579,3
+9,China pushes for regular mass testing in its ‘zero Covid’ pu,Business,B,1.130742751967369,1.130742751967369,4
+10,"After Agnes Chow Is Arrested in Hong Kong, a ‘Mulan’ Meme Is",Foreign,E,1.6449788364116102,1.6449788364116102,1
+10,"After Agnes Chow Is Arrested in Hong Kong, a ‘Mulan’ Meme Is",Foreign,A,1.6920520318154662,1.6920520318154662,2
+10,"After Agnes Chow Is Arrested in Hong Kong, a ‘Mulan’ Meme Is",Foreign,D,1.8875218892676964,1.8875218892676964,3
+10,"After Agnes Chow Is Arrested in Hong Kong, a ‘Mulan’ Meme Is",Foreign,B,1.924305155090729,1.924305155090729,4
+11,"As China’s Propaganda Push Continues, Wuhan Emerges as a Sta",Foreign,D,0.8003747914296886,0.8003747914296886,1
+11,"As China’s Propaganda Push Continues, Wuhan Emerges as a Sta",Foreign,E,0.9154189316607598,0.9154189316607598,2
+11,"As China’s Propaganda Push Continues, Wuhan Emerges as a Sta",Foreign,A,0.9421149944757214,0.9421149944757214,3
+11,"As China’s Propaganda Push Continues, Wuhan Emerges as a Sta",Foreign,B,1.2615231312966595,1.2615231312966595,4
+12,8 Pro-Democracy Politicians Arrested in Hong Kong Over Heate,Foreign,E,0.7646034164871606,0.7646034164871606,1
+12,8 Pro-Democracy Politicians Arrested in Hong Kong Over Heate,Foreign,D,0.8271147566718153,0.8271147566718153,2
+12,8 Pro-Democracy Politicians Arrested in Hong Kong Over Heate,Foreign,B,0.9162279540258977,0.9162279540258977,3
+12,8 Pro-Democracy Politicians Arrested in Hong Kong Over Heate,Foreign,A,1.1657884842198756,1.1657884842198756,4
+13,China Long Avoided Discussing Mental Health. The Pandemic Ch,Foreign,D,0.7163533673337145,0.7163533673337145,1
+13,China Long Avoided Discussing Mental Health. The Pandemic Ch,Foreign,E,0.7893678316342024,0.7893678316342024,2
+13,China Long Avoided Discussing Mental Health. The Pandemic Ch,Foreign,A,1.1873926224187017,1.1873926224187017,3
+13,China Long Avoided Discussing Mental Health. The Pandemic Ch,Foreign,B,1.2813696553723681,1.2813696553723681,4
+14,China Keeps Building Stadiums in Africa. But at What Cost?,Foreign,A,-0.06690152952279368,0.06690152952279368,1
+14,China Keeps Building Stadiums in Africa. But at What Cost?,Foreign,D,-0.2991535256972484,0.2991535256972484,2
+14,China Keeps Building Stadiums in Africa. But at What Cost?,Foreign,E,-0.46187170191810245,0.46187170191810245,3
+14,China Keeps Building Stadiums in Africa. But at What Cost?,Foreign,B,0.4799153708238414,0.4799153708238414,4
+15,China Welcomes Belarusian Leader Amid Concerns About Ukraine,Foreign,D,1.2034772380268097,1.2034772380268097,1
+15,China Welcomes Belarusian Leader Amid Concerns About Ukraine,Foreign,A,1.5502073044319533,1.5502073044319533,2
+15,China Welcomes Belarusian Leader Amid Concerns About Ukraine,Foreign,E,1.5693554419429145,1.5693554419429145,3
+15,China Welcomes Belarusian Leader Amid Concerns About Ukraine,Foreign,B,1.5793827985180542,1.5793827985180542,4
+16,A Look at Taiwan’s Strongest Earthquakes,Foreign,E,1.3699156119320022,1.3699156119320022,1
+16,A Look at Taiwan’s Strongest Earthquakes,Foreign,D,1.4096742808534244,1.4096742808534244,2
+16,A Look at Taiwan’s Strongest Earthquakes,Foreign,A,1.8389741348995206,1.8389741348995206,3
+16,A Look at Taiwan’s Strongest Earthquakes,Foreign,B,1.8691061306744814,1.8691061306744814,4
+17,"With Methane and Forest Deals, Climate Summit Offers Hope Af",Foreign,D,0.4087937878393051,0.4087937878393051,1
+17,"With Methane and Forest Deals, Climate Summit Offers Hope Af",Foreign,E,1.118003615170407,1.118003615170407,2
+17,"With Methane and Forest Deals, Climate Summit Offers Hope Af",Foreign,A,1.3102385999764212,1.3102385999764212,3
+17,"With Methane and Forest Deals, Climate Summit Offers Hope Af",Foreign,B,1.3522389784325948,1.3522389784325948,4
+18,"A Panda Is Coming Home, and Her Chinese Fans Say It’s About ",Foreign,D,1.0902424262345045,1.0902424262345045,1
+18,"A Panda Is Coming Home, and Her Chinese Fans Say It’s About ",Foreign,E,1.1204322361219157,1.1204322361219157,2
+18,"A Panda Is Coming Home, and Her Chinese Fans Say It’s About ",Foreign,B,1.1292411216725466,1.1292411216725466,3
+18,"A Panda Is Coming Home, and Her Chinese Fans Say It’s About ",Foreign,A,1.1293514489548722,1.1293514489548722,4
+19,Chinese Spacewalk Apparently Breaks a Record (Barely),Foreign,D,1.6599217711482197,1.6599217711482197,1
+19,Chinese Spacewalk Apparently Breaks a Record (Barely),Foreign,B,1.841205541484265,1.841205541484265,2
+19,Chinese Spacewalk Apparently Breaks a Record (Barely),Foreign,E,1.8463904721235544,1.8463904721235544,3
+19,Chinese Spacewalk Apparently Breaks a Record (Barely),Foreign,A,1.853792457582636,1.853792457582636,4
+20,China Pledges More Stimulus to Shore Up Flagging Economy,Business,E,0.5135158409571481,0.5135158409571481,1
+20,China Pledges More Stimulus to Shore Up Flagging Economy,Business,D,0.6929549405014969,0.6929549405014969,2
+20,China Pledges More Stimulus to Shore Up Flagging Economy,Business,A,0.9460270251406149,0.9460270251406149,3
+20,China Pledges More Stimulus to Shore Up Flagging Economy,Business,B,1.5953690250818098,1.5953690250818098,4
+21,Forget the Polls: This Chinese Indicator Is Flashing ‘Trump’,Business,D,1.1224589794292115,1.1224589794292115,1
+21,Forget the Polls: This Chinese Indicator Is Flashing ‘Trump’,Business,A,1.6327274834362067,1.6327274834362067,2
+21,Forget the Polls: This Chinese Indicator Is Flashing ‘Trump’,Business,E,1.681392454458142,1.681392454458142,3
+21,Forget the Polls: This Chinese Indicator Is Flashing ‘Trump’,Business,B,1.9528787833082282,1.9528787833082282,4
+22,U.K. Bars Huawei for 5G as Tech Battle Between China and the,Business,A,0.6446038777357901,0.6446038777357901,1
+22,U.K. Bars Huawei for 5G as Tech Battle Between China and the,Business,D,0.6855070746904758,0.6855070746904758,2
+22,U.K. Bars Huawei for 5G as Tech Battle Between China and the,Business,E,0.9526526051405301,0.9526526051405301,3
+22,U.K. Bars Huawei for 5G as Tech Battle Between China and the,Business,B,1.0778233771820347,1.0778233771820347,4
+23,"As Coronavirus Spreads, Face Mask Makers Go Into Overdrive",Business,D,0.41389851806581834,0.41389851806581834,1
+23,"As Coronavirus Spreads, Face Mask Makers Go Into Overdrive",Business,E,0.6584715701717261,0.6584715701717261,2
+23,"As Coronavirus Spreads, Face Mask Makers Go Into Overdrive",Business,A,0.9987643598216688,0.9987643598216688,3
+23,"As Coronavirus Spreads, Face Mask Makers Go Into Overdrive",Business,B,1.284192397714489,1.284192397714489,4
+24,"In One Key A.I. Metric, China Pulls Ahead of the U.S.: Talen",Business,D,-0.07516742980806151,0.07516742980806151,1
+24,"In One Key A.I. Metric, China Pulls Ahead of the U.S.: Talen",Business,B,-0.08677363292857382,0.08677363292857382,2
+24,"In One Key A.I. Metric, China Pulls Ahead of the U.S.: Talen",Business,A,-0.3087045533078101,0.3087045533078101,3
+24,"In One Key A.I. Metric, China Pulls Ahead of the U.S.: Talen",Business,E,-0.6034173946730637,0.6034173946730637,4
+25,"As Chinese Vaccines Stumble, U.S. Finds New Opening in Asia",Business,E,0.7092222876225909,0.7092222876225909,1
+25,"As Chinese Vaccines Stumble, U.S. Finds New Opening in Asia",Business,D,0.8840789504245751,0.8840789504245751,2
+25,"As Chinese Vaccines Stumble, U.S. Finds New Opening in Asia",Business,A,1.2440835156374508,1.2440835156374508,3
+25,"As Chinese Vaccines Stumble, U.S. Finds New Opening in Asia",Business,B,1.424364014215664,1.424364014215664,4
+26,China Bet It All on Real Estate. Now Its Economy Is Paying t,Business,D,-0.08427992002107199,0.08427992002107199,1
+26,China Bet It All on Real Estate. Now Its Economy Is Paying t,Business,E,-0.10264063033585746,0.10264063033585746,2
+26,China Bet It All on Real Estate. Now Its Economy Is Paying t,Business,A,0.17802204921738146,0.17802204921738146,3
+26,China Bet It All on Real Estate. Now Its Economy Is Paying t,Business,B,0.24130235641366915,0.24130235641366915,4
+27,F.C.C. Designates Huawei and ZTE as National Security Threat,Business,E,0.36640705569233323,0.36640705569233323,1
+27,F.C.C. Designates Huawei and ZTE as National Security Threat,Business,A,0.8724587768212788,0.8724587768212788,2
+27,F.C.C. Designates Huawei and ZTE as National Security Threat,Business,B,0.8801287392464777,0.8801287392464777,3
+27,F.C.C. Designates Huawei and ZTE as National Security Threat,Business,D,1.0180104802970567,1.0180104802970567,4
+28,China Wants to Bulldoze Old Neighborhoods to Revive the Econ,Business,D,0.7507224061655711,0.7507224061655711,1
+28,China Wants to Bulldoze Old Neighborhoods to Revive the Econ,Business,B,1.0739408267791282,1.0739408267791282,2
+28,China Wants to Bulldoze Old Neighborhoods to Revive the Econ,Business,E,1.3321363084820206,1.3321363084820206,3
+28,China Wants to Bulldoze Old Neighborhoods to Revive the Econ,Business,A,1.4018665172806424,1.4018665172806424,4
+29,"Gifts, Gadgets and Greece: Inside a Huawei Lobbying Campaign",Business,D,0.9000468926932959,0.9000468926932959,1
+29,"Gifts, Gadgets and Greece: Inside a Huawei Lobbying Campaign",Business,E,0.9528493583682806,0.9528493583682806,2
+29,"Gifts, Gadgets and Greece: Inside a Huawei Lobbying Campaign",Business,A,1.1560508040690496,1.1560508040690496,3
+29,"Gifts, Gadgets and Greece: Inside a Huawei Lobbying Campaign",Business,B,1.3964878613764924,1.3964878613764924,4
+30,Alibaba’s Boss Steps Aside,Business,E,0.32398608306215876,0.32398608306215876,1
+30,Alibaba’s Boss Steps Aside,Business,D,0.6751334309940122,0.6751334309940122,2
+30,Alibaba’s Boss Steps Aside,Business,B,1.3073039877021477,1.3073039877021477,3
+30,Alibaba’s Boss Steps Aside,Business,A,1.3670558706055291,1.3670558706055291,4
+31,Big Tech Reconsiders the “Made in China” Way,Business,E,0.7435152239947153,0.7435152239947153,1
+31,Big Tech Reconsiders the “Made in China” Way,Business,D,0.9229913140289783,0.9229913140289783,2
+31,Big Tech Reconsiders the “Made in China” Way,Business,A,1.4207628995961081,1.4207628995961081,3
+31,Big Tech Reconsiders the “Made in China” Way,Business,B,1.6951484426964374,1.6951484426964374,4
+32,Why China’s Most-Hated Internet Company Decided to Play Nice,Business,D,0.4954660544999772,0.4954660544999772,1
+32,Why China’s Most-Hated Internet Company Decided to Play Nice,Business,E,0.795900878837953,0.795900878837953,2
+32,Why China’s Most-Hated Internet Company Decided to Play Nice,Business,A,0.9595013135940664,0.9595013135940664,3
+32,Why China’s Most-Hated Internet Company Decided to Play Nice,Business,B,1.4352055995569875,1.4352055995569875,4
+33,Facebook Failed to Stop Ads Threatening Election Workers,Business,D,0.033613293638659725,0.033613293638659725,1
+33,Facebook Failed to Stop Ads Threatening Election Workers,Business,A,0.1694726478502464,0.1694726478502464,2
+33,Facebook Failed to Stop Ads Threatening Election Workers,Business,B,0.3933747677559343,0.3933747677559343,3
+33,Facebook Failed to Stop Ads Threatening Election Workers,Business,E,0.659561841153643,0.659561841153643,4
+34,Poor Countries Borrowed Billions from China. They Can’t Pay ,Business,E,0.1863950622371502,0.1863950622371502,1
+34,Poor Countries Borrowed Billions from China. They Can’t Pay ,Business,D,-0.2641962050305059,0.2641962050305059,2
+34,Poor Countries Borrowed Billions from China. They Can’t Pay ,Business,B,0.30377799246667153,0.30377799246667153,3
+34,Poor Countries Borrowed Billions from China. They Can’t Pay ,Business,A,0.4308743447893196,0.4308743447893196,4
+35,China Returns to Davos With Clear Message: We’re Open for Bu,Business,E,1.1998553806204453,1.1998553806204453,1
+35,China Returns to Davos With Clear Message: We’re Open for Bu,Business,D,1.4105607327332512,1.4105607327332512,2
+35,China Returns to Davos With Clear Message: We’re Open for Bu,Business,B,1.519752056324958,1.519752056324958,3
+35,China Returns to Davos With Clear Message: We’re Open for Bu,Business,A,1.54599302326743,1.54599302326743,4
+36,Thousands of Microsoft Customers May Have Been Victims of Ha,Business,D,0.3759274674165578,0.3759274674165578,1
+36,Thousands of Microsoft Customers May Have Been Victims of Ha,Business,E,0.4402176333436121,0.4402176333436121,2
+36,Thousands of Microsoft Customers May Have Been Victims of Ha,Business,B,0.7171440278438643,0.7171440278438643,3
+36,Thousands of Microsoft Customers May Have Been Victims of Ha,Business,A,0.7987016294048064,0.7987016294048064,4
+37,Uncertainty Swirls Around Evergrande as a Deadline Passes,Business,D,0.24927129016982164,0.24927129016982164,1
+37,Uncertainty Swirls Around Evergrande as a Deadline Passes,Business,A,0.3229115918382174,0.3229115918382174,2
+37,Uncertainty Swirls Around Evergrande as a Deadline Passes,Business,E,0.38649766059178425,0.38649766059178425,3
+37,Uncertainty Swirls Around Evergrande as a Deadline Passes,Business,B,0.4001992346149764,0.4001992346149764,4
+38,"China’s Rebound Hits a Wall, and There Is ‘No Quick Fix’ to ",Business,A,0.09683927250379282,0.09683927250379282,1
+38,"China’s Rebound Hits a Wall, and There Is ‘No Quick Fix’ to ",Business,E,-0.15653179772586245,0.15653179772586245,2
+38,"China’s Rebound Hits a Wall, and There Is ‘No Quick Fix’ to ",Business,B,-0.17189502512725685,0.17189502512725685,3
+38,"China’s Rebound Hits a Wall, and There Is ‘No Quick Fix’ to ",Business,D,-0.3871832241136064,0.3871832241136064,4
+39,China’s Plan to Spur Growth: A New Slogan for Building Facto,Business,E,0.39228467114217985,0.39228467114217985,1
+39,China’s Plan to Spur Growth: A New Slogan for Building Facto,Business,D,0.5505811175874744,0.5505811175874744,2
+39,China’s Plan to Spur Growth: A New Slogan for Building Facto,Business,A,0.6848426356057946,0.6848426356057946,3
+39,China’s Plan to Spur Growth: A New Slogan for Building Facto,Business,B,1.1361014179549076,1.1361014179549076,4
+40,Lies on Social Media Inflame Israeli-Palestinian Conflict,Business,A,0.42423483389171057,0.42423483389171057,1
+40,Lies on Social Media Inflame Israeli-Palestinian Conflict,Business,D,0.5006805620311451,0.5006805620311451,2
+40,Lies on Social Media Inflame Israeli-Palestinian Conflict,Business,E,0.5107875127707506,0.5107875127707506,3
+40,Lies on Social Media Inflame Israeli-Palestinian Conflict,Business,B,0.9029665576268195,0.9029665576268195,4
+41,"A Hong Kong Website Gets Blocked, Raising Censorship Fears",Business,D,0.25512483647617035,0.25512483647617035,1
+41,"A Hong Kong Website Gets Blocked, Raising Censorship Fears",Business,B,0.38277609867671136,0.38277609867671136,2
+41,"A Hong Kong Website Gets Blocked, Raising Censorship Fears",Business,E,0.46611097288324443,0.46611097288324443,3
+41,"A Hong Kong Website Gets Blocked, Raising Censorship Fears",Business,A,0.6020530674157069,0.6020530674157069,4
+42,Japanese Supercomputer Is Crowned World’s Speediest,Business,E,0.6599303199909627,0.6599303199909627,1
+42,Japanese Supercomputer Is Crowned World’s Speediest,Business,D,0.6762885658342082,0.6762885658342082,2
+42,Japanese Supercomputer Is Crowned World’s Speediest,Business,A,0.6794649126370333,0.6794649126370333,3
+42,Japanese Supercomputer Is Crowned World’s Speediest,Business,B,0.6798166990144334,0.6798166990144334,4
+43,China’s Communist Party Congress: What It Means for Business,Business,E,0.8369185097787218,0.8369185097787218,1
+43,China’s Communist Party Congress: What It Means for Business,Business,D,1.0617682239454653,1.0617682239454653,2
+43,China’s Communist Party Congress: What It Means for Business,Business,A,1.3476074921717456,1.3476074921717456,3
+43,China’s Communist Party Congress: What It Means for Business,Business,B,1.454645833091086,1.454645833091086,4
+44,Trump Officially Orders TikTok’s Chinese Owner to Divest,Business,A,0.48130402336311023,0.48130402336311023,1
+44,Trump Officially Orders TikTok’s Chinese Owner to Divest,Business,D,0.7093756546059418,0.7093756546059418,2
+44,Trump Officially Orders TikTok’s Chinese Owner to Divest,Business,B,0.7788136292042005,0.7788136292042005,3
+44,Trump Officially Orders TikTok’s Chinese Owner to Divest,Business,E,0.8001269715217254,0.8001269715217254,4
+45,"As Red States Curb Social Media, Did Montana’s TikTok Ban Go",Business,B,0.10029639586185418,0.10029639586185418,1
+45,"As Red States Curb Social Media, Did Montana’s TikTok Ban Go",Business,D,0.1429074841034082,0.1429074841034082,2
+45,"As Red States Curb Social Media, Did Montana’s TikTok Ban Go",Business,E,0.33465595360224454,0.33465595360224454,3
+45,"As Red States Curb Social Media, Did Montana’s TikTok Ban Go",Business,A,0.3855681804112262,0.3855681804112262,4
+46,‘Who Are Our Enemies?’ China’s Bitter Youths Embrace Mao.,Business,D,0.8387622706695562,0.8387622706695562,1
+46,‘Who Are Our Enemies?’ China’s Bitter Youths Embrace Mao.,Business,E,0.9952230011578649,0.9952230011578649,2
+46,‘Who Are Our Enemies?’ China’s Bitter Youths Embrace Mao.,Business,A,1.0135768328017245,1.0135768328017245,3
+46,‘Who Are Our Enemies?’ China’s Bitter Youths Embrace Mao.,Business,B,1.2003846067443695,1.2003846067443695,4
+47,China Frees Banks to Lend More in Latest Attempt to Spur Eco,Business,E,-0.009297838667407632,0.009297838667407632,1
+47,China Frees Banks to Lend More in Latest Attempt to Spur Eco,Business,D,0.3903772152649859,0.3903772152649859,2
+47,China Frees Banks to Lend More in Latest Attempt to Spur Eco,Business,A,0.9974703673894206,0.9974703673894206,3
+47,China Frees Banks to Lend More in Latest Attempt to Spur Eco,Business,B,1.3668204161545467,1.3668204161545467,4
+48,"China Uses ‘Deceptive’ Methods to Sow Disinformation, U.S. S",Business,E,-0.13687242929720225,0.13687242929720225,1
+48,"China Uses ‘Deceptive’ Methods to Sow Disinformation, U.S. S",Business,B,0.2621656332113262,0.2621656332113262,2
+48,"China Uses ‘Deceptive’ Methods to Sow Disinformation, U.S. S",Business,A,0.47222462808713306,0.47222462808713306,3
+48,"China Uses ‘Deceptive’ Methods to Sow Disinformation, U.S. S",Business,D,0.6093397743275595,0.6093397743275595,4
+49,China Factory Fire Kills 38,Business,B,0.8223253916949034,0.8223253916949034,1
+49,China Factory Fire Kills 38,Business,D,0.9020725855500333,0.9020725855500333,2
+49,China Factory Fire Kills 38,Business,A,1.0731208346680634,1.0731208346680634,3
+49,China Factory Fire Kills 38,Business,E,1.0825826925639477,1.0825826925639477,4
+50,Hong Kong Police Arrest Organizers of Tiananmen Square Vigil,Foreign,A,0.8180963975545537,0.8180963975545537,1
+50,Hong Kong Police Arrest Organizers of Tiananmen Square Vigil,Foreign,B,0.9183329536851185,0.9183329536851185,2
+50,Hong Kong Police Arrest Organizers of Tiananmen Square Vigil,Foreign,D,0.9548364057684214,0.9548364057684214,3
+50,Hong Kong Police Arrest Organizers of Tiananmen Square Vigil,Foreign,E,1.0753482867407405,1.0753482867407405,4
+51,U.S. Vows to Continue Patrols Near China and Urges Nuclear T,Foreign,D,0.6537789898200168,0.6537789898200168,1
+51,U.S. Vows to Continue Patrols Near China and Urges Nuclear T,Foreign,E,0.7904554108468195,0.7904554108468195,2
+51,U.S. Vows to Continue Patrols Near China and Urges Nuclear T,Foreign,B,0.9226357975871198,0.9226357975871198,3
+51,U.S. Vows to Continue Patrols Near China and Urges Nuclear T,Foreign,A,1.0384474297959565,1.0384474297959565,4
+52,China’s New U.S. Ambassador Is Likely to Reflect Beijing’s C,Foreign,E,0.08065413972750923,0.08065413972750923,1
+52,China’s New U.S. Ambassador Is Likely to Reflect Beijing’s C,Foreign,B,0.09737655592875338,0.09737655592875338,2
+52,China’s New U.S. Ambassador Is Likely to Reflect Beijing’s C,Foreign,A,-0.1118956019118843,0.1118956019118843,3
+52,China’s New U.S. Ambassador Is Likely to Reflect Beijing’s C,Foreign,D,-0.1309629368091313,0.1309629368091313,4
+53,How the Coronavirus Numbers Changed So Sharply,Foreign,E,0.5603700024706388,0.5603700024706388,1
+53,How the Coronavirus Numbers Changed So Sharply,Foreign,A,0.8721118839764839,0.8721118839764839,2
+53,How the Coronavirus Numbers Changed So Sharply,Foreign,D,0.9151095081777183,0.9151095081777183,3
+53,How the Coronavirus Numbers Changed So Sharply,Foreign,B,1.0360247315564064,1.0360247315564064,4
+54,"U.K. Sees Myriad Domestic Threats, Mainly From Iran, Russia ",Foreign,D,0.14024371286440226,0.14024371286440226,1
+54,"U.K. Sees Myriad Domestic Threats, Mainly From Iran, Russia ",Foreign,A,0.7263524274652203,0.7263524274652203,2
+54,"U.K. Sees Myriad Domestic Threats, Mainly From Iran, Russia ",Foreign,E,0.7322689856971717,0.7322689856971717,3
+54,"U.K. Sees Myriad Domestic Threats, Mainly From Iran, Russia ",Foreign,B,0.8935206010937691,0.8935206010937691,4
+55,Hong Kong Officer Is Summoned to Face Charges Over Shooting ,Foreign,E,0.9593520002155047,0.9593520002155047,1
+55,Hong Kong Officer Is Summoned to Face Charges Over Shooting ,Foreign,A,1.0151527050442786,1.0151527050442786,2
+55,Hong Kong Officer Is Summoned to Face Charges Over Shooting ,Foreign,D,1.0200515406646042,1.0200515406646042,3
+55,Hong Kong Officer Is Summoned to Face Charges Over Shooting ,Foreign,B,1.0468084599124268,1.0468084599124268,4
+56,Three cities in China impose partial lockdowns as new cases ,Foreign,D,0.3045841693722954,0.3045841693722954,1
+56,Three cities in China impose partial lockdowns as new cases ,Foreign,A,0.6495583467444199,0.6495583467444199,2
+56,Three cities in China impose partial lockdowns as new cases ,Foreign,E,0.6909674532556287,0.6909674532556287,3
+56,Three cities in China impose partial lockdowns as new cases ,Foreign,B,1.3413768392573628,1.3413768392573628,4
+57,"To Slow Virus, China Bars Entry by Almost All Foreigners",Foreign,D,0.7448645654496633,0.7448645654496633,1
+57,"To Slow Virus, China Bars Entry by Almost All Foreigners",Foreign,E,0.7794588662477003,0.7794588662477003,2
+57,"To Slow Virus, China Bars Entry by Almost All Foreigners",Foreign,A,1.1587284030651466,1.1587284030651466,3
+57,"To Slow Virus, China Bars Entry by Almost All Foreigners",Foreign,B,1.3525785650255986,1.3525785650255986,4
+58,"In Hong Kong, Foreign Tourists Are Replaced by a Local Varie",Foreign,E,0.12384043117053811,0.12384043117053811,1
+58,"In Hong Kong, Foreign Tourists Are Replaced by a Local Varie",Foreign,D,0.35264996311679075,0.35264996311679075,2
+58,"In Hong Kong, Foreign Tourists Are Replaced by a Local Varie",Foreign,A,0.8391644646685262,0.8391644646685262,3
+58,"In Hong Kong, Foreign Tourists Are Replaced by a Local Varie",Foreign,B,0.8764427643346911,0.8764427643346911,4
+59,"Hong Kong, One of World’s Last Holdouts, Ends Its Mask Manda",Foreign,E,1.0918970426492807,1.0918970426492807,1
+59,"Hong Kong, One of World’s Last Holdouts, Ends Its Mask Manda",Foreign,D,1.2489489514587653,1.2489489514587653,2
+59,"Hong Kong, One of World’s Last Holdouts, Ends Its Mask Manda",Foreign,A,1.6772773286534681,1.6772773286534681,3
+59,"Hong Kong, One of World’s Last Holdouts, Ends Its Mask Manda",Foreign,B,1.909817763397263,1.909817763397263,4
+60,Experts See a Message in Chinese Balloons Flying Over Taiwan,Foreign,A,1.3699544516987063,1.3699544516987063,1
+60,Experts See a Message in Chinese Balloons Flying Over Taiwan,Foreign,D,1.4019473173215777,1.4019473173215777,2
+60,Experts See a Message in Chinese Balloons Flying Over Taiwan,Foreign,E,1.4982963333087453,1.4982963333087453,3
+60,Experts See a Message in Chinese Balloons Flying Over Taiwan,Foreign,B,1.7934108052480344,1.7934108052480344,4
+61,21 Runners Dead After Extreme Weather Hits Chinese Ultramara,Foreign,E,-0.14873537972259024,0.14873537972259024,1
+61,21 Runners Dead After Extreme Weather Hits Chinese Ultramara,Foreign,D,-0.2081940456603964,0.2081940456603964,2
+61,21 Runners Dead After Extreme Weather Hits Chinese Ultramara,Foreign,A,0.36083891484627706,0.36083891484627706,3
+61,21 Runners Dead After Extreme Weather Hits Chinese Ultramara,Foreign,B,0.6088501665896426,0.6088501665896426,4
+62,Businesses ‘Getting Killed’ on Russian Border as Coronavirus,Foreign,A,-0.019651376803974663,0.019651376803974663,1
+62,Businesses ‘Getting Killed’ on Russian Border as Coronavirus,Foreign,E,-0.04274735515031747,0.04274735515031747,2
+62,Businesses ‘Getting Killed’ on Russian Border as Coronavirus,Foreign,D,0.08104934796251151,0.08104934796251151,3
+62,Businesses ‘Getting Killed’ on Russian Border as Coronavirus,Foreign,B,0.19727048623867133,0.19727048623867133,4
+63,"The G7 leaders get down to business, taking on climate chang",Foreign,D,-0.05981370205214864,0.05981370205214864,1
+63,"The G7 leaders get down to business, taking on climate chang",Foreign,A,0.3075989371993475,0.3075989371993475,2
+63,"The G7 leaders get down to business, taking on climate chang",Foreign,B,0.32332245173812335,0.32332245173812335,3
+63,"The G7 leaders get down to business, taking on climate chang",Foreign,E,-0.6242940862042208,0.6242940862042208,4
+64,Germany Arrests Aide to E.U. Lawmaker on Suspicion of Spying,Foreign,B,0.8354907651535338,0.8354907651535338,1
+64,Germany Arrests Aide to E.U. Lawmaker on Suspicion of Spying,Foreign,A,0.9071235613793963,0.9071235613793963,2
+64,Germany Arrests Aide to E.U. Lawmaker on Suspicion of Spying,Foreign,E,1.03999565096779,1.03999565096779,3
+64,Germany Arrests Aide to E.U. Lawmaker on Suspicion of Spying,Foreign,D,1.0700727574165083,1.0700727574165083,4
+65,"As Omicron Surges and Economy Suffers, China Tweaks ‘Zero Co",Foreign,D,0.6489834393529843,0.6489834393529843,1
+65,"As Omicron Surges and Economy Suffers, China Tweaks ‘Zero Co",Foreign,E,0.7698107405772641,0.7698107405772641,2
+65,"As Omicron Surges and Economy Suffers, China Tweaks ‘Zero Co",Foreign,A,0.8526900157125461,0.8526900157125461,3
+65,"As Omicron Surges and Economy Suffers, China Tweaks ‘Zero Co",Foreign,B,1.2129373569300193,1.2129373569300193,4
+66,"In China, Blinken Faces Clashing Agendas and a Question: Wil",Foreign,E,-0.1294421022499187,0.1294421022499187,1
+66,"In China, Blinken Faces Clashing Agendas and a Question: Wil",Foreign,D,0.7493288157662997,0.7493288157662997,2
+66,"In China, Blinken Faces Clashing Agendas and a Question: Wil",Foreign,A,0.7957604333706614,0.7957604333706614,3
+66,"In China, Blinken Faces Clashing Agendas and a Question: Wil",Foreign,B,1.1238860213327118,1.1238860213327118,4
+67,"The Hong Kong police, citing the pandemic, block Tiananmen a",Foreign,D,0.5146523476319593,0.5146523476319593,1
+67,"The Hong Kong police, citing the pandemic, block Tiananmen a",Foreign,E,1.1359002251798906,1.1359002251798906,2
+67,"The Hong Kong police, citing the pandemic, block Tiananmen a",Foreign,B,1.2092915102386743,1.2092915102386743,3
+67,"The Hong Kong police, citing the pandemic, block Tiananmen a",Foreign,A,1.4484639458306547,1.4484639458306547,4
+68,"Chinese Military Drills Aim to Awe, Both Abroad and at Home",Foreign,E,1.1182426342921743,1.1182426342921743,1
+68,"Chinese Military Drills Aim to Awe, Both Abroad and at Home",Foreign,D,1.559692503276488,1.559692503276488,2
+68,"Chinese Military Drills Aim to Awe, Both Abroad and at Home",Foreign,B,1.5918593109300774,1.5918593109300774,3
+68,"Chinese Military Drills Aim to Awe, Both Abroad and at Home",Foreign,A,1.6301143828701847,1.6301143828701847,4
+69,"For China’s Xi and Other Strongmen, Gorbachev Showed Exactly",Foreign,D,0.8755827611519231,0.8755827611519231,1
+69,"For China’s Xi and Other Strongmen, Gorbachev Showed Exactly",Foreign,A,0.9379500687723823,0.9379500687723823,2
+69,"For China’s Xi and Other Strongmen, Gorbachev Showed Exactly",Foreign,E,1.0344052183545296,1.0344052183545296,3
+69,"For China’s Xi and Other Strongmen, Gorbachev Showed Exactly",Foreign,B,1.4696992091110181,1.4696992091110181,4
+70,A History Museum Shows How China Wants to Remake Hong Kong,Foreign,D,1.6264896562400586,1.6264896562400586,1
+70,A History Museum Shows How China Wants to Remake Hong Kong,Foreign,E,1.6815529734465398,1.6815529734465398,2
+70,A History Museum Shows How China Wants to Remake Hong Kong,Foreign,A,1.8799213541852724,1.8799213541852724,3
+70,A History Museum Shows How China Wants to Remake Hong Kong,Foreign,B,1.893243310119336,1.893243310119336,4
+71,Hong Kong Police Arrest Activist for Violating 2019 Mask Ban,Foreign,A,0.717314414266083,0.717314414266083,1
+71,Hong Kong Police Arrest Activist for Violating 2019 Mask Ban,Foreign,D,0.7541313008146567,0.7541313008146567,2
+71,Hong Kong Police Arrest Activist for Violating 2019 Mask Ban,Foreign,E,1.0119618420075212,1.0119618420075212,3
+71,Hong Kong Police Arrest Activist for Violating 2019 Mask Ban,Foreign,B,1.174517112525387,1.174517112525387,4
+72,A Pacific Island With Ties to Taiwan Was Hacked. Was It Poli,Foreign,D,1.1436273523011349,1.1436273523011349,1
+72,A Pacific Island With Ties to Taiwan Was Hacked. Was It Poli,Foreign,E,1.3181541194078616,1.3181541194078616,2
+72,A Pacific Island With Ties to Taiwan Was Hacked. Was It Poli,Foreign,B,1.349179057417334,1.349179057417334,3
+72,A Pacific Island With Ties to Taiwan Was Hacked. Was It Poli,Foreign,A,1.520785373674395,1.520785373674395,4
+73,‘This Drop Came So Quickly’: Shrinking Schools Add to Hong K,Foreign,D,0.44129753567071434,0.44129753567071434,1
+73,‘This Drop Came So Quickly’: Shrinking Schools Add to Hong K,Foreign,A,0.5449920672198965,0.5449920672198965,2
+73,‘This Drop Came So Quickly’: Shrinking Schools Add to Hong K,Foreign,E,0.7742916196481221,0.7742916196481221,3
+73,‘This Drop Came So Quickly’: Shrinking Schools Add to Hong K,Foreign,B,1.0055635682100224,1.0055635682100224,4
+74,China Charges Hong Kong Activists Caught Fleeing to Taiwan,Foreign,B,0.4038528236560523,0.4038528236560523,1
+74,China Charges Hong Kong Activists Caught Fleeing to Taiwan,Foreign,A,0.4194010174574537,0.4194010174574537,2
+74,China Charges Hong Kong Activists Caught Fleeing to Taiwan,Foreign,E,0.4758674340814144,0.4758674340814144,3
+74,China Charges Hong Kong Activists Caught Fleeing to Taiwan,Foreign,D,0.7632770927157253,0.7632770927157253,4
+75,"With Tensions Mounting, Biden and Xi Try a Warmer Tone",Foreign,E,0.7864180187591248,0.7864180187591248,1
+75,"With Tensions Mounting, Biden and Xi Try a Warmer Tone",Foreign,D,1.0293983566807583,1.0293983566807583,2
+75,"With Tensions Mounting, Biden and Xi Try a Warmer Tone",Foreign,B,1.3599419321140482,1.3599419321140482,3
+75,"With Tensions Mounting, Biden and Xi Try a Warmer Tone",Foreign,A,1.3624266459503107,1.3624266459503107,4
+76,‘Wild Swimming’ in Restricted Beijing Offers Refreshing Brea,Foreign,E,1.5677691826182936,1.5677691826182936,1
+76,‘Wild Swimming’ in Restricted Beijing Offers Refreshing Brea,Foreign,D,1.5941679881575208,1.5941679881575208,2
+76,‘Wild Swimming’ in Restricted Beijing Offers Refreshing Brea,Foreign,B,1.6329737799099853,1.6329737799099853,3
+76,‘Wild Swimming’ in Restricted Beijing Offers Refreshing Brea,Foreign,A,1.6333115744640558,1.6333115744640558,4
+77,He Warned of Coronavirus. Here’s What He Told Us Before He D,Foreign,D,1.339468537661661,1.339468537661661,1
+77,He Warned of Coronavirus. Here’s What He Told Us Before He D,Foreign,E,1.3943025792832486,1.3943025792832486,2
+77,He Warned of Coronavirus. Here’s What He Told Us Before He D,Foreign,A,1.4210985479359,1.4210985479359,3
+77,He Warned of Coronavirus. Here’s What He Told Us Before He D,Foreign,B,1.755573161043382,1.755573161043382,4
+78,"Xi and Macron Call for Ukraine Peace Talks, but the Path Is ",Foreign,D,0.05030017651410568,0.05030017651410568,1
+78,"Xi and Macron Call for Ukraine Peace Talks, but the Path Is ",Foreign,E,0.5504500720546478,0.5504500720546478,2
+78,"Xi and Macron Call for Ukraine Peace Talks, but the Path Is ",Foreign,B,1.1274049051312938,1.1274049051312938,3
+78,"Xi and Macron Call for Ukraine Peace Talks, but the Path Is ",Foreign,A,1.2308623899395266,1.2308623899395266,4
+79,Lockdowns spread in China as the virus surges in Shanghai an,Foreign,D,0.6731682525844209,0.6731682525844209,1
+79,Lockdowns spread in China as the virus surges in Shanghai an,Foreign,E,0.7287818600371894,0.7287818600371894,2
+79,Lockdowns spread in China as the virus surges in Shanghai an,Foreign,B,0.7533283439050946,0.7533283439050946,3
+79,Lockdowns spread in China as the virus surges in Shanghai an,Foreign,A,0.8393385771455036,0.8393385771455036,4

@@ -1,0 +1,17 @@
+model,prompt_version,news_desk,n,vader_dev_mean,vader_dev_std
+Claude-Haiku-4.5,A,Business,40,0.1054,0.412
+Claude-Haiku-4.5,A,Foreign,40,0.17,0.4513
+Claude-Haiku-4.5,E,Business,40,0.0023,0.4019
+Claude-Haiku-4.5,E,Foreign,40,0.0699,0.4899
+GPT-4o-mini,A,Business,40,0.2936,0.4737
+GPT-4o-mini,A,Foreign,40,0.421,0.4461
+GPT-4o-mini,B,Business,40,0.3321,0.4381
+GPT-4o-mini,B,Foreign,40,0.4076,0.4131
+GPT-4o-mini,D,Business,40,0.1422,0.4492
+GPT-4o-mini,D,Foreign,40,0.2049,0.4605
+GPT-4o-mini,E,Business,40,0.0891,0.4953
+GPT-4o-mini,E,Foreign,40,0.2466,0.5074
+Gemini-2.5-Flash,A,Business,40,0.066,0.3738
+Gemini-2.5-Flash,A,Foreign,40,0.2172,0.3968
+Gemini-2.5-Flash,E,Business,40,0.1169,0.4008
+Gemini-2.5-Flash,E,Foreign,40,0.1836,0.3964
