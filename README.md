@@ -5,8 +5,6 @@ We use NYT China coverage (2020-2024) as a calibrated case and test whether LLMs
 desk-level entity and affective patterns, via a **reproduction / recovery / miscalibration** diagnostic.
 Models: GPT-4o-mini, Gemini-2.5-Flash, Claude-Haiku-4.5. n = 40 headlines/desk.
 
-> ✏️ **Before publishing, fill in the placeholders:** author name in `LICENSE`, and author/venue in the citation below.
-
 ## Layout
 ```
 notebooks/   01 data prep · 02 GPT · 03 Gemini · 04 Claude · 05 figures · 06 qualitative · vader_check
@@ -40,8 +38,8 @@ Never hardcode API keys. All notebooks read them from the environment. If you fo
 ```bibtex
 @inproceedings{institutional_voice_llm_2026,
   title     = {From Style to Cultural Calibration: Evaluating Institutional Voice in LLM-Generated News},
-  author    = {<Author Name(s)>},
-  booktitle = {<ICML 2026 Workshop name>},
+  author    = {<Jiahang Luo>},
+  booktitle = {<ICML 2026 Culture Ai>},
   year      = {2026}
 }
 ```
